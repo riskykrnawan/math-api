@@ -1,0 +1,31 @@
+{
+  "name": "math-api",
+  "version": "1.0.0",
+  "description": "Menjadi Back-End Developer Expert",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riskykrnawan/math-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riskykrnawan/math-api/issues"
+  },
+  "homepage": "https://github.com/riskykrnawan/math-api#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.4.0",
+    "jest": "^27.5.1"
+  }
+}
